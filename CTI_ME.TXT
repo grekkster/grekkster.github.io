@@ -1,0 +1,5 @@
+1) Aplikace se spuští otevøením souboru Viewer.php ve webovém prohlížeèi.
+2) Celá složka s aplikací musí být umístìna a spouštìna z lokálního nebo webového serveru.
+3) Prohlížeè a grafický akcelerátor musí podporovat technologii WebGL, jinak nebude aplikace pracovat správnì.
+4) Do složky ./modely lze pøidávat další modely ve formátu Collada s texturami (pokud nìjaké mají).
+5) Zobrzený model je možné ovládat pomocí myši - levé tlaèítko rotace, prostøední tlaèítko posun, koleèko myši pøibližování.
